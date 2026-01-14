@@ -1,0 +1,15 @@
+{
+  "name": "gort",
+  "short_name": "gort",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fb2651",
+  "theme_color": "#fb2651",
+  "icons": [
+    {
+      "src": "/gort.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
