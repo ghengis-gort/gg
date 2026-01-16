@@ -27,17 +27,17 @@
     --radius-sm: 8px;
     --radius-lg: 16px;
     --radius-xl: 20px;
-    --gradient-primary: linear-gradient(135deg, #fc2651 0%, #e91e47 100%);
-    --gradient-accent: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    --gradient-primary: linear-gradient(135deg, #0a0a3c 0%, #0a0a3c 100%);
+    --gradient-accent: linear-gradient(135deg, #000000 0%, #010211 100%);
     --gradient-surface: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
 }
 
 .dark-mode {
-    --primary: #fc2651;
-    --primary-hover: #ff4d75;
+    --primary: #0a0a3c;
+    --primary-hover: #262691;
     --primary-light: rgba(10, 10, 60, 0.15);
     --primary-lighter: rgba(10, 10, 10, 0.08);
-    --accent: #a855f7;
+    --accent: #010211;
     --accent-light: rgba(0, 0, 0, 0.15);
     --success: #34d399;
     --warning: #fbbf24;
@@ -57,8 +57,8 @@
     --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.6), 0 4px 6px -4px rgb(0 0 0 / 0.6);
     --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.7), 0 8px 10px -6px rgb(0 0 0 / 0.7);
     --shadow-glow: 0 0 20px rgba(10, 10, 60, 0.4);
-    --gradient-primary: linear-gradient(135deg, #fc2651 0%, #ff4d75 100%);
-    --gradient-accent: linear-gradient(135deg, #a855f7 0%, #9333ea 100%);
+    --gradient-primary: linear-gradient(135deg, #0a0a3c 0%, #0a0a3c 100%);
+    --gradient-accent: linear-gradient(135deg, #a855f7 0%, #010211 100%);
     --gradient-surface: linear-gradient(135deg, #1e293b 0%, #334155 100%);
 }
 
@@ -671,3 +671,4 @@ footer {
 .info-button svg {
     display: block;
 }
+
